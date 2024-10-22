@@ -22,5 +22,6 @@ Getting Started
 Clone the repository or download the project files.
 Open index.html in your web browser to view the website.
 Customization
-Images: Replace embalum.png and enfield-royal.jpg with your own images as needed.
-Text Content: Modify the <h1> and <p> tags within the HTML to change the title and description.
+Images: Replace embalum.png and enfield-royal.jpg with your own images as desired.
+Text Content: Update the <h1> and <p> tags in the HTML to change the title and description.
+thank you
